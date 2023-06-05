@@ -12,5 +12,6 @@ public class Test {
         System.out.println("你好,Git");
         System.out.println("hello,Git");
         System.out.println("抠你吉瓦,Git");
+        System.out.println("hot-fix test");
     }
 }
