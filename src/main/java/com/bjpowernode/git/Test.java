@@ -9,5 +9,6 @@ public class Test {
         System.out.println("抠你吉瓦,Git");
         System.out.println("2222222222222");
         System.out.println("爱酱超市我");
+        System.out.println("rika口我");
     }
 }
